@@ -12,7 +12,7 @@ Project made to be the frontend of [**Firmware-Backend**](https://github.com/Ern
 
 ---
 
-## 🔭 How to download the project
+## How to download the project
 
 ```bash
     # Clone the repository
